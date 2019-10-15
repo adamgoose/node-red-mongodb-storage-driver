@@ -1,0 +1,16 @@
+{
+  "name": "node-red-mongodb-storage-driver",
+  "version": "1.0.0",
+  "description": "A custom Storage API implementation for NodeRED and MongoDB",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.3.2",
+    "when": "^3.7.8"
+  }
+}
